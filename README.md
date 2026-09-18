@@ -209,7 +209,7 @@ Body:
 ```
 
 Resultado:
-![alt text](/image.png)
+![alt text](/codigo//image.png)
 
 ### Prueba 2: Consultar cliente (GET)
 
